@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     height:200,
     marginBottom:30,
     alignSelf:"center",
-    borderRadius:75,
+    borderRadius:60,
     marginTop:100
   },
   detailContainer:{
